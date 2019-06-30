@@ -15,7 +15,7 @@ Based on https://tools.ietf.org/html/rfc1350 protocol standards to create the se
 
 ## End Remark
 
-    The team had its ups and downs when it came to meeting deadlines on certain components, but in the end I'm proud of what we were able to accomplish. 
+    The team had its ups and downs, but in the end I'm proud of what we were able to accomplish. 
     
     Thank you
     
