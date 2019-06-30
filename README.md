@@ -24,5 +24,5 @@ Obinna Elobi <br/>
 Yan Liao <br/>
 Yash Patel <br/>
 
-Sincerly,
+Sincerly, <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;Jonathan
