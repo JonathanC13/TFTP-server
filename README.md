@@ -16,10 +16,13 @@ Based on https://tools.ietf.org/html/rfc1350 protocol standards to create the se
 ## End Remark
 
     The team had its ups and downs, but in the end I'm proud of what we were able to accomplish. 
-    
+ 
     Thank you
     
     Jeremy Sawh
     Obinna Elobi
     Yan Liao
     Yash Patel
+
+    Sincerly,
+        Jonathan
